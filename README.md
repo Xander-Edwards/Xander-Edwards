@@ -1,3 +1,3 @@
 - Hi, I’m Xander Edwards
 - I’m interested in video games and programming
-- I’m currently learning Lua and Python
+- I’m currently learning Lua
